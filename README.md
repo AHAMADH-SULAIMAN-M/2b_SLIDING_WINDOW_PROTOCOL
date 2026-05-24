@@ -1,6 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
-## Developed By: Sanjeev A
-## Register No: 212224230246
+## Developed By: AHAMADH SULAIMAN M
+## Register No: 212224230009
 ## AIM
 ## ALGORITHM:
 1. Start the program.
